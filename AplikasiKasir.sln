@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikasiKasir", "AplikasiKasir\AplikasiKasir.csproj", "{DDDC2473-7DB5-4843-914E-C9B605F0843D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDC2473-7DB5-4843-914E-C9B605F0843D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDC2473-7DB5-4843-914E-C9B605F0843D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDC2473-7DB5-4843-914E-C9B605F0843D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDC2473-7DB5-4843-914E-C9B605F0843D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A0ADF7-6B0A-4CAF-934C-4966EC890F9A}
+	EndGlobalSection
+EndGlobal
